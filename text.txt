@@ -1,0 +1,2 @@
+This is the first homework assignment for DevOps. 
+Here I am going to practice git commands as required.
